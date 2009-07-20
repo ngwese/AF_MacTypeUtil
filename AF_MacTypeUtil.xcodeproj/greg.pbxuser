@@ -1,0 +1,135 @@
+// !$*UTF8*$!
+{
+	0867D690FE84028FC02AAC07 /* Project object */ = {
+		activeArchitecture = ppc;
+		activeBuildConfigurationName = Deployment;
+		activeTarget = 8D07F2BC0486CC7A007CD1D0 /* AF_MacTypeUtil */;
+		addToTargets = (
+			8D07F2BC0486CC7A007CD1D0 /* AF_MacTypeUtil */,
+		);
+		codeSenseManager = 371B808909205AF900CFF3F6 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					386,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					200,
+					184,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 228456286;
+			PBXWorkspaceStateSaveDate = 228456286;
+		};
+		perUserProjectItems = {
+			37AD49D60D9F104D00F3B625 /* PBXTextBookmark */ = 37AD49D60D9F104D00F3B625 /* PBXTextBookmark */;
+			37CA993E0CD50A5C00564EFA /* PBXTextBookmark */ = 37CA993E0CD50A5C00564EFA /* PBXTextBookmark */;
+		};
+		sourceControlManager = 371B808809205AF900CFF3F6 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32BAE0B70371A74B00C91783 /* AF_MacTypeUtil_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {871, 757}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {871, 757}}";
+			sepNavWindowFrame = "{{15, 48}, {916, 830}}";
+		};
+	};
+	371B808809205AF900CFF3F6 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	371B808909205AF900CFF3F6 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	371B808B09205B2F00CFF3F6 /* AF_MT_64_util.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {564, 864}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1805}";
+			sepNavVisRect = "{{0, 0}, {871, 757}}";
+			sepNavWindowFrame = "{{15, 48}, {916, 830}}";
+		};
+	};
+	371B809109205C0700CFF3F6 /* AF_MT_64_util.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {871, 757}}";
+			sepNavSelRange = "{2179, 0}";
+			sepNavVisRect = "{{0, 0}, {871, 757}}";
+			sepNavWindowFrame = "{{430, 48}, {916, 830}}";
+		};
+	};
+	371B809C09205D0E00CFF3F6 /* AF_MacTypeUtil.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {871, 757}}";
+			sepNavSelRange = "{220, 0}";
+			sepNavVisRect = "{{0, 0}, {871, 757}}";
+			sepNavWindowFrame = "{{15, 48}, {916, 830}}";
+		};
+	};
+	37AD49D60D9F104D00F3B625 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 371B808B09205B2F00CFF3F6 /* AF_MT_64_util.c */;
+		name = "AF_MT_64_util.c: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1805;
+		vrLoc = 0;
+	};
+	37CA993E0CD50A5C00564EFA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 371B808B09205B2F00CFF3F6 /* AF_MT_64_util.c */;
+		name = "AF_MT_64_util.c: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1805;
+		vrLoc = 0;
+	};
+	8D07F2BC0486CC7A007CD1D0 /* AF_MacTypeUtil */ = {
+		activeExec = 0;
+	};
+}
